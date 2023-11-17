@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976007233469",
+    "project_id": "semana4jn-c5943",
+    "storage_bucket": "semana4jn-c5943.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976007233469:android:940bf631b35ebe3ca11cd4",
+        "android_client_info": {
+          "package_name": "com.gamesworld.semana4jn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByptQnhtEKzCEoNY4nxZJZcxr3g6YC4is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
